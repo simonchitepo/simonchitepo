@@ -15,7 +15,7 @@ I am building a security-focused engineering portfolio around three practical ar
 | Project | Focus | Status |
 |---|---|---|
 | Azure Secure API Lab | Azure App Service, IAM, Key Vault, logging, threat modeling | In progress |
-| DevSecOps CI/CD Pipeline | GitHub Actions, Gitleaks, Trivy, dependency scanning, secure SDLC | Planned |
+| DevSecOps CI/CD Pipeline | GitHub Actions, Gitleaks, Trivy, dependency scanning, secure SDLC | In progress |
 | Cloud SOC Detection Lab | SIEM, log analysis, MITRE ATT&CK, incident reports | Planned |
 
 ## Skills I Am Building
